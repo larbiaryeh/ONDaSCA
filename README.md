@@ -1,6 +1,7 @@
 # ONDaSCA
-On-demand Network Data Set Creation Application for Network Intrusion Detection
+On-demand Network Data Set Creation Application (ONDaSCA) is a customizable Data Set Application for Network Intrusion Detection. This application enables Network Administrators sniff network packet saved in the PCAP format and later converted to CSV for Machine Learning Algorithms. The application can be run on a firewall to generate realtime customised data set tailored to specific network. 
 
+If you are using this for research purposes please cite our publication listed below. The bibtex is as follows.
 ## Requirements: 
 <ul>
   <li>Python3</li>
