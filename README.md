@@ -27,8 +27,8 @@ The tool has also been designed to run as a command line tool. The source code f
 
 ### Requirements
 <ul>
-  <li>Python3/li>
-  <li>Argparse/li>
+  <li>Python3</li>
+  <li>Argparse</li>
   <li>CICFlowmeter (https://github.com/ahlashkari/CICFlowMeter – installation requirements is provided)</li>
  </ul>
 
