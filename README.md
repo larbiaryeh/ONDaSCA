@@ -35,4 +35,4 @@ The tool has also been designed to run as a command line tool. The source code f
 The command line tool provides the user the same capabilities as the GUI tool with the difference being that the command line version runs directly from the terminal and uses less system resources. 
 
 ## Reference for Citation
-Aryeh, F.L. (2020). On-demand Network Data Set Creation Application (ONDaSCA). [online] GitHub. Available at: https://github.com/larbiaryeh/ONDaSCA [Accessed 24 Sep. 2020].
+'''Aryeh, F.L. (2020). On-demand Network Data Set Creation Application (ONDaSCA). [online] GitHub. Available at: https://github.com/larbiaryeh/ONDaSCA [Accessed 24 Sep. 2020].'''
